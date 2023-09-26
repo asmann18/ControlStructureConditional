@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\aztuIf\aztuIf\bin\Debug\net6.0\aztuIf.exe
+C:\Users\DELL\source\repos\aztuIf\aztuIf\bin\Debug\net6.0\aztuIf.deps.json
+C:\Users\DELL\source\repos\aztuIf\aztuIf\bin\Debug\net6.0\aztuIf.runtimeconfig.json
+C:\Users\DELL\source\repos\aztuIf\aztuIf\bin\Debug\net6.0\aztuIf.dll
+C:\Users\DELL\source\repos\aztuIf\aztuIf\bin\Debug\net6.0\aztuIf.pdb
+C:\Users\DELL\source\repos\aztuIf\aztuIf\obj\Debug\net6.0\aztuIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\aztuIf\aztuIf\obj\Debug\net6.0\aztuIf.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\aztuIf\aztuIf\obj\Debug\net6.0\aztuIf.AssemblyInfo.cs
+C:\Users\DELL\source\repos\aztuIf\aztuIf\obj\Debug\net6.0\aztuIf.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\aztuIf\aztuIf\obj\Debug\net6.0\aztuIf.dll
+C:\Users\DELL\source\repos\aztuIf\aztuIf\obj\Debug\net6.0\refint\aztuIf.dll
+C:\Users\DELL\source\repos\aztuIf\aztuIf\obj\Debug\net6.0\aztuIf.pdb
+C:\Users\DELL\source\repos\aztuIf\aztuIf\obj\Debug\net6.0\aztuIf.genruntimeconfig.cache
+C:\Users\DELL\source\repos\aztuIf\aztuIf\obj\Debug\net6.0\ref\aztuIf.dll
